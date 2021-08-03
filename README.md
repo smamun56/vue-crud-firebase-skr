@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+## Project setup 2 manually
+```
+npm install
+```
 
 ### Compiles and hot-reloads for development
 ```
