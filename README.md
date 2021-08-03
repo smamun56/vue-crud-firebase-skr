@@ -1,4 +1,4 @@
-# vue-skr
+# vue-skr-new
 
 ## Project setup
 ```
